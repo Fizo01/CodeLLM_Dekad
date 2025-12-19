@@ -1,7 +1,0 @@
-git mv Backend backend.tmp
-git mv backend.tmp backend
-git mv Frontend frontend.tmp
-git mv frontend.tmp frontend
-git add .
-git commit -m "Fix directory casing"
-git push origin main# Auto detect text files and perform LF normalization
