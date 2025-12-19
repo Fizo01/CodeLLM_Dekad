@@ -1,0 +1,17 @@
+Dekad_Project/
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   └── .env.example
+└── frontend/
+    └── lib/
+        ├── main.dart
+        ├── models/
+        │   ├── user_profile.dart
+        │   └── connection.dart
+        ├── services/
+        │   ├── api_service.dart
+        │   └── exchange_service.dart
+        ├── screens/
+        │   └── home_screen.dart
+        └── pubspec.yaml
